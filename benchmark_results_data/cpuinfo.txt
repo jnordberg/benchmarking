@@ -1,8 +1,48 @@
-model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
-cpu MHz		: 700.093
-model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
-cpu MHz		: 700.037
-model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
-cpu MHz		: 700.055
-model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
-cpu MHz		: 700.125
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 3611.775
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 3700.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 3700.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2800.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 3700.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2800.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
+model name	: AMD Ryzen 9 5900X 12-Core Processor
+cpu MHz		: 2200.000
